@@ -1,9 +1,9 @@
-﻿(function () {
+(function () {
   const APPS_SCRIPT_URL =
     "https://script.google.com/macros/s/AKfycbyGL5Y4gBm9-2V_bBsT8QOmRwiJ1-sHOjnCOfYfzHeEXh-_FmeMsqISHJGEhrE1-8sV/exec";
   const SITE_CONFIG_FALLBACK = {
     siteId: "volna-alean",
-    siteUrl: "https://xn----7sbbagv2bdogc.xn--p1ai",
+    siteUrl: "https://xn----7sbabjp5bepdj.xn--p1ai",
     chatId: "-1003736835402",
   };
   const REQUEST_TIMEOUT_MS = 10000;
