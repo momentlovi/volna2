@@ -1,6 +1,6 @@
-(function () {
+﻿(function () {
   const APPS_SCRIPT_URL =
-    "https://script.google.com/macros/s/AKfycbwmCIEtyYryXRBnpmPEEkC7jRH4zFgR-KafkWgwr42R4BqA-yEsnRWuHcUy7m1OnBgF/exec";
+    "https://script.google.com/macros/s/AKfycbyGL5Y4gBm9-2V_bBsT8QOmRwiJ1-sHOjnCOfYfzHeEXh-_FmeMsqISHJGEhrE1-8sV/exec";
   const SITE_CONFIG_FALLBACK = {
     siteId: "volna-alean",
     siteUrl: "https://xn----7sbbagv2bdogc.xn--p1ai",
@@ -161,3 +161,4 @@
 
   window.sendLead = sendLead;
 })();
+
